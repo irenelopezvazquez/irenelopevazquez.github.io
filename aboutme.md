@@ -4,14 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Irene, I am from the south of Spain and I love learning new skills. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Pharmacy degree at UCLM (2016 - 2022)
+- Master in bioinformatics and biostatistics at UOC/UB (2022 - 2024)
+- Master in health data science (2025 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Pharmacist (2022 - 2024)
+- Clinical Data Specialist at a pharmaceutical company (2024 - present)
