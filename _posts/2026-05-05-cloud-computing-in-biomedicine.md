@@ -1,40 +1,58 @@
 ---
 layout: post
-title: "Transforming Biomedicine: A Deep Dive into Cloud-Based Remote Patient Monitoring"
+title: "Cloud Computing in Remote Patient Monitoring: Applications and Challenges"
 date: 2026-05-05
 categories: biomedicine cloud-computing
 ---
 
-## Introduction to Cloud in Healthcare
+## Introduction
 
-Cloud computing has evolved from a luxury to an essential utility in the biomedical field [1]. As defined in our course materials, cloud computing is a model for enabling ubiquitous, on-demand network access to a shared pool of configurable computing resources—such as networks, servers, storage, and applications—that can be rapidly provisioned with minimal management effort [2]. In biomedicine, this facilitates the management of "Big Data," allowing for the storage and analysis of massive patient records and complex genomic data that exceed the capacity of traditional in-house hardware [1, 3].
+Cloud computing has become an important tool in biomedical research and healthcare. Instead of relying only on local servers, hospitals and research centers can now store and process data using remote infrastructure. According to the :contentReference[oaicite:1]{index=1}, cloud computing allows on-demand access to shared computing resources such as storage, networks, and applications.
 
-## Featured Application: IBM Watson Health
+In healthcare, this is especially useful because of the large amount of data generated, including patient records, imaging data, and genomic information. Managing this kind of data with traditional systems can be difficult and expensive.
 
-A premier example of cloud technology in action is **IBM Watson Health** [1]. This platform utilizes cloud infrastructure to provide advanced solutions for **Remote Patient Monitoring (RPM)**, a field that has shown significant success in reducing hospitalizations and emergency department visits [1, 4].
+## Remote Patient Monitoring and the Cloud
 
-### How it Works
-IBM Watson Health leverages the cloud's elastic nature to analyze data from multiple streams:
-* **Electronic Health Records (EHRs):** Integrating historical patient data to provide a 360-degree clinical view [1].
-* **Internet of Medical Things (IoMT):** Collecting real-time vitals from wearable sensors and non-invasive digital technologies [1, 5].
-* **Predictive Analytics:** Using distributed AI to identify early warning signs and provide clinicians with actionable insights [1, 6].
+One area where cloud computing is particularly useful is **Remote Patient Monitoring (RPM)**. This approach allows doctors to follow patients outside the hospital using digital technologies.
 
-## Opportunities and Challenges
+For example, wearable devices such as heart rate monitors or glucose sensors can continuously collect patient data. This data is then sent to cloud platforms, where it can be stored and analyzed in real time. In my opinion, this is one of the most interesting aspects of cloud computing in healthcare, because it allows continuous monitoring without requiring patients to stay in the hospital.
 
-The transition from "On-Premise" infrastructure to cloud models like Infrastructure as a Service (IaaS) or Software as a Service (SaaS) offers a major strategic shift in how healthcare operates [1, 2].
+Cloud platforms can combine information from different sources:
+- Electronic Health Records (EHRs), which provide medical history
+- Wearable devices, which provide real-time data
+- Analytical tools, which help detect patterns or risks
 
-### The Benefits
-* **CapEx to OpEx:** Healthcare organizations convert high upfront capital expenses into predictable operational expenses by renting resources on a pay-as-you-go basis [1, 2].
-* **Scalability:** Cloud systems offer the "illusion of infinite resources," allowing platforms to scale up instantly for massive data processing tasks [1, 3].
-* **Interoperability:** Improved coordination as critical data becomes accessible to authorized doctors and researchers from any location [1, 3].
+## Examples of Cloud-Based Healthcare Platforms
 
-### The Hurdles
-* **Data Privacy:** Systems must strictly adhere to complex regulations like **HIPAA** in the USA or **LOPD** in Spain to protect sensitive patient information [1, 3].
-* **Security Concerns:** While cloud providers invest heavily in security, the shift requires a "shared responsibility" model to prevent data breaches [1, 2].
+Several platforms have been developed to support these applications. One well-known example is :contentReference[oaicite:2]{index=2}, which historically contributed to the use of cloud and artificial intelligence in healthcare data analysis.
+
+Today, many cloud providers offer healthcare-focused services. For instance, platforms like :contentReference[oaicite:3]{index=3} provide tools for storing medical data securely and analyzing it at scale.
+
+These systems allow healthcare professionals to detect early warning signs, support clinical decisions, and improve patient management.
+
+## Benefits of Cloud Computing in Healthcare
+
+Using cloud computing offers several advantages:
+
+- **Scalability:** Systems can easily handle large amounts of data without needing new physical infrastructure  
+- **Cost efficiency:** Organizations pay only for the resources they use, instead of investing in expensive hardware  
+- **Accessibility:** Data can be accessed securely from different locations, improving collaboration between professionals  
+
+## Challenges and Limitations
+
+Despite its advantages, cloud computing in healthcare also presents some challenges.
+
+- **Data privacy:** Patient data must be protected according to regulations such as GDPR in Europe or HIPAA in the United States  
+- **Security risks:** Although cloud providers invest heavily in security, data breaches are still a concern  
+- **Integration issues:** Combining data from different systems can be complex  
+
+Because of this, healthcare institutions need to carefully manage how they use cloud technologies.
 
 ## Conclusion
 
-Cloud computing is no longer a future concept; it is the current backbone of modern medicine [1]. Platforms like IBM Watson Health demonstrate that the synergy between cloud scalability and AI is the key to improving patient outcomes and handling the vast complexities of 21st-century healthcare [1, 5].
+Cloud computing is becoming a key component of modern healthcare systems. It enables more efficient data management and supports applications such as remote patient monitoring, which can improve patient outcomes.
+
+Although there are still challenges, especially related to privacy and security, the benefits of cloud computing make it an essential tool for the future of biomedicine.
 
 ---
 
@@ -42,12 +60,12 @@ Cloud computing is no longer a future concept; it is the current backbone of mod
 
 [1] Solsona Tehas, F. (2026). *Session 1 and 2 - Introduction to Cloud Computing + Github Pages-2026.pdf*. Universitat Rovira i Virgili and Universitat de Lleida.
 
-[2] Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. National Institute of Standards and Technology. [View on NIST](https://doi.org/10.6028/NIST.SP.800-145)
+[2] Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. National Institute of Standards and Technology.
 
-[3] Vilaplana, J., Solsona, F., et al. (2013). The cloud paradigm applied to e-Health. *Journal of Medical Systems*. [View on PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3618213/)
+[3] Vilaplana, J., Solsona, F., et al. (2013). The cloud paradigm applied to e-Health. *Journal of Medical Systems*.
 
-[4] Ali, O., Shrestha, A., Soar, J., & Wamba, S. F. (2018). Cloud computing-enabled healthcare opportunities, issues, and applications. *International Journal of Information Management*. [View on IDEAS](https://ideas.repec.org/a/eee/ininma/v43y2018icp146-158.html)
+[4] Ali, O., Shrestha, A., Soar, J., & Wamba, S. F. (2018). Cloud computing-enabled healthcare: opportunities and challenges. *International Journal of Information Management*.
 
-[5] Vegesna, A. et al. (2017). Remote patient monitoring via non-invasive digital technologies: a systematic review. *Telemedicine and e-Health*. [View on PubMed](https://pubmed.ncbi.nlm.nih.gov/27171104/)
+[5] Vegesna, A. et al. (2017). Remote patient monitoring via digital technologies: a systematic review. *Telemedicine and e-Health*.
 
-[6] Taylor, M. L. et al. (2021). Does remote patient monitoring reduce acute care use? A systematic review. *BMJ Open*. [View on PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC7939109/)
+[6] Taylor, M. L. et al. (2021). Does remote patient monitoring reduce acute care use? *BMJ Open*.
