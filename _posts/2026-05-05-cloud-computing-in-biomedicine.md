@@ -60,12 +60,12 @@ Although there are still challenges, especially related to privacy and security,
 
 [1] Solsona Tehas, F. (2026). *Session 1 and 2 - Introduction to Cloud Computing + Github Pages-2026.pdf*. Universitat Rovira i Virgili and Universitat de Lleida.
 
-[2] Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. National Institute of Standards and Technology.
+[2] Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. National Institute of Standards and Technology. [View on NIST](https://doi.org/10.6028/NIST.SP.800-145)
 
-[3] Vilaplana, J., Solsona, F., et al. (2013). The cloud paradigm applied to e-Health. *Journal of Medical Systems*.
+[3] Vilaplana, J., Solsona, F., et al. (2013). The cloud paradigm applied to e-Health. *Journal of Medical Systems*. [View on PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3618213/)
 
-[4] Ali, O., Shrestha, A., Soar, J., & Wamba, S. F. (2018). Cloud computing-enabled healthcare: opportunities and challenges. *International Journal of Information Management*.
+[4] Ali, O., Shrestha, A., Soar, J., & Wamba, S. F. (2018). Cloud computing-enabled healthcare opportunities, issues, and applications. *International Journal of Information Management*. [View on IDEAS](https://ideas.repec.org/a/eee/ininma/v43y2018icp146-158.html)
 
-[5] Vegesna, A. et al. (2017). Remote patient monitoring via digital technologies: a systematic review. *Telemedicine and e-Health*.
+[5] Vegesna, A. et al. (2017). Remote patient monitoring via non-invasive digital technologies: a systematic review. *Telemedicine and e-Health*. [View on PubMed](https://pubmed.ncbi.nlm.nih.gov/27171104/)
 
-[6] Taylor, M. L. et al. (2021). Does remote patient monitoring reduce acute care use? *BMJ Open*.
+[6] Taylor, M. L. et al. (2021). Does remote patient monitoring reduce acute care use? A systematic review. *BMJ Open*. [View on PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC7939109/)
